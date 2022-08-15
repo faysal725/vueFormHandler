@@ -1,3 +1,5 @@
+# Whats Included
+form handling , http request using vue resource and 2 custom directive, Custom filter, search function
 # vuejs-playlist
 
 > A Vue.js project
