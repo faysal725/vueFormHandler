@@ -1,5 +1,5 @@
 # Whats Included
-form handling , http request using vue resource and 2 custom directive, Custom filter, search function
+form handling , http request using vue resource and 2 custom directive, Custom filter, search function, firebase database connection, add post with firebase database, vue js router version:2, d
 # vuejs-playlist
 
 > A Vue.js project
